@@ -1,0 +1,9 @@
+E:\__SERGE\_Serge\_H projects\_Music Root\WiseMusic\WiseMusic.Core\bin\Debug\WiseMusic.Core.dll
+E:\__SERGE\_Serge\_H projects\_Music Root\WiseMusic\WiseMusic.Core\bin\Debug\WiseMusic.Core.pdb
+E:\__SERGE\_Serge\_H projects\_Music Root\WiseMusic\WiseMusic.Core\obj\Debug\WiseMusic.Core.dll
+E:\__SERGE\_Serge\_H projects\_Music Root\WiseMusic\WiseMusic.Core\obj\Debug\WiseMusic.Core.pdb
+P:\__My Projects\_Music Root\WiseMusic\WiseMusic.Core\bin\Debug\WiseMusic.Core.dll
+P:\__My Projects\_Music Root\WiseMusic\WiseMusic.Core\bin\Debug\WiseMusic.Core.pdb
+P:\__My Projects\_Music Root\WiseMusic\WiseMusic.Core\obj\Debug\WiseMusic.Core.dll
+P:\__My Projects\_Music Root\WiseMusic\WiseMusic.Core\obj\Debug\WiseMusic.Core.pdb
+P:\__My Projects\_Music Root\WiseMusic\WiseMusic.Core\obj\Debug\WiseMusic.Core.csprojResolveAssemblyReference.cache

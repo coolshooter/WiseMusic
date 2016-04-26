@@ -1,0 +1,5 @@
+P:\__My Projects\_Music Root\WiseMusic\WiseMusic.Core\bin\Release\WiseMusic.Core.dll
+P:\__My Projects\_Music Root\WiseMusic\WiseMusic.Core\bin\Release\WiseMusic.Core.pdb
+P:\__My Projects\_Music Root\WiseMusic\WiseMusic.Core\obj\Release\WiseMusic.Core.csprojResolveAssemblyReference.cache
+P:\__My Projects\_Music Root\WiseMusic\WiseMusic.Core\obj\Release\WiseMusic.Core.dll
+P:\__My Projects\_Music Root\WiseMusic\WiseMusic.Core\obj\Release\WiseMusic.Core.pdb

@@ -1,0 +1,11 @@
+P:\__My Projects\_Music Root\WiseMusic\WiseMusic.Win\bin\Release\WiseMusic.Win.exe.config
+P:\__My Projects\_Music Root\WiseMusic\WiseMusic.Win\bin\Release\WiseMusic.Win.exe
+P:\__My Projects\_Music Root\WiseMusic\WiseMusic.Win\bin\Release\WiseMusic.Win.pdb
+P:\__My Projects\_Music Root\WiseMusic\WiseMusic.Win\bin\Release\WiseMusic.Core.dll
+P:\__My Projects\_Music Root\WiseMusic\WiseMusic.Win\bin\Release\WiseMusic.Core.pdb
+P:\__My Projects\_Music Root\WiseMusic\WiseMusic.Win\obj\Release\WiseMusic.Win.csprojResolveAssemblyReference.cache
+P:\__My Projects\_Music Root\WiseMusic\WiseMusic.Win\obj\Release\WiseMusic.Win.MainForm.resources
+P:\__My Projects\_Music Root\WiseMusic\WiseMusic.Win\obj\Release\WiseMusic.Win.Properties.Resources.resources
+P:\__My Projects\_Music Root\WiseMusic\WiseMusic.Win\obj\Release\WiseMusic.Win.csproj.GenerateResource.Cache
+P:\__My Projects\_Music Root\WiseMusic\WiseMusic.Win\obj\Release\WiseMusic.Win.exe
+P:\__My Projects\_Music Root\WiseMusic\WiseMusic.Win\obj\Release\WiseMusic.Win.pdb
